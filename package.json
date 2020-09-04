@@ -16,6 +16,6 @@
     },
     "dependencies": {
         "node-loader": "^0.6.0",
-        "node-sass": "^4.13.0"
+        "node-sass": "^4.13.1"
     }
 }
